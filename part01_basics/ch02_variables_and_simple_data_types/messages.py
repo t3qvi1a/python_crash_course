@@ -7,3 +7,6 @@ message = "'No, I'm not' he said."
 
 print(message)
 print(haha)
+
+message = "'No, I'm not', he said."
+
