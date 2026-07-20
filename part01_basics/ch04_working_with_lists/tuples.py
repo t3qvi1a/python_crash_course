@@ -5,8 +5,10 @@ print(dimensions[1])
 for dimension in dimensions:
     print(dimension)
 
-dimensions = (500, 3490, 123)
+dimensions[0] = 666
 
+
+dimensions = (500, 3490, 123)
 for dimension in dimensions:
     print(dimension)
 
