@@ -6,3 +6,8 @@ print(alien_0['color'])
 alien_0['color'] = 'yellow'
 print(alien_0['color'])
 del alien_0['color']
+
+alien_0 = {'color': 'green', 'speed': 'slow'}
+# alien_0['points'] = 7
+point_value = alien_0.get('points')
+print(point_value)
